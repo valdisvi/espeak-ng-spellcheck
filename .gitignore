@@ -1,4 +1,9 @@
-*.tmp
-*.swp
-en_*
-lv_*
+.idea/
+ht_list_20*
+ht_rules_20*
+ht_rule-results.txt
+ht_spelling-diff.txt
+ht_unused-lines-content.txt
+ht_winning-lines.txt
+ht_winning-rule-lines.txt
+lines.tmp
